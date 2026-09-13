@@ -59,7 +59,7 @@ export default function Features() {
                 </div>
                 <div className="relative md:w-[46%]">
                   <img
-                    src="/images/macro-dial.jpg"
+                    src="images/macro-dial.jpg"
                     alt="Extreme macro of the Flux dial showing guilloche texture and sapphire crystal reflections"
                     loading="lazy"
                     className="aspect-[4/3] w-full rounded-2xl object-cover transition-transform duration-700 group-hover:scale-[1.03]"

@@ -57,7 +57,7 @@ export default function Benefits() {
               <FadeIn delay={0.15} className="mt-9">
                 <div className="relative overflow-hidden rounded-[2rem] shadow-[0_40px_80px_-30px_rgba(10,10,16,0.45)]">
                   <motion.img
-                    src="/images/lifestyle-wrist.jpg"
+                    src="images/lifestyle-wrist.jpg"
                     alt="A young person wearing the Meridian Flux at night, city lights bokeh in the background"
                     loading="lazy"
                     style={{ y: imgY }}

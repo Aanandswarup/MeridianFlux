@@ -124,7 +124,7 @@ export default function Hero() {
 
               <div className="animate-float relative">
                 <img
-                  src="/images/hero-watch.jpg"
+                  src="images/hero-watch.jpg"
                   alt="Meridian Flux smartwatch floating in dramatic studio light, matte black titanium case with a glowing minimal dial"
                   width={1024}
                   height={1024}
